@@ -1,0 +1,26 @@
+<Resource>
+    <pages>
+        <page name="startup" id="0" />
+        <page name="home" id="1" />
+        <page name="about" id="2" />
+        <page name="home_signal_error" id="3" />
+        <page name="about_signal_error" id="4" />
+        <page name="mode_select" id="5" />
+        <page name="maintenance" id="6" />
+        <page name="device_model_select" id="7" />
+    </pages>
+    <images>
+        <image id="0" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\visual_bg\startup.png" effect_width="480" effect_height="854" />
+        <image id="1" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\visual_bg\home.png" effect_width="480" effect_height="854" />
+        <image id="2" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\visual_bg\about.png" effect_width="480" effect_height="854" />
+        <image id="3" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\visual_bg\home_signal_error.png" effect_width="480" effect_height="854" />
+        <image id="4" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\visual_bg\about_signal_error.png" effect_width="480" effect_height="854" />
+        <image id="5" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\visual_bg\mode_select.png" effect_width="480" effect_height="854" />
+        <image id="6" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\Images\0.png" effect_width="71" effect_height="733" />
+        <image id="7" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\Images\3.png" effect_width="71" effect_height="733" />
+        <image id="8" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\Images\3.png" effect_width="65" effect_height="733" />
+        <image id="9" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\Images\log_popup.png" effect_width="122" effect_height="292" />
+        <image id="10" url="e:\项目\arm端接入梳理\ucm2_rc13_研发维护交接_20260922_r1\ucm2_rc13_研发维护交接_20260922_r1\01_可维护源码\03_hmi_visualtft_editable_source\Images\3.png" effect_width="35" effect_height="733" />
+    </images>
+    <waves />
+</Resource>

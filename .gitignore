@@ -1,5 +1,5 @@
 build/
-artifacts/
+artifacts/_tmp/
 evidence/_tmp/
 source/dciot_build/
 source/output/
